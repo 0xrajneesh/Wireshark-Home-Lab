@@ -2,7 +2,18 @@
 
 ## ℹ️Overview
 
-This home-lab is focussed on setting up Wireshark Home-Lab and getting hands-on with practical scenarios. If you are a Network Security engineer, SOC Analyst or Aspirant Security Analyst, this home-lab with help you with Network Analysis, Security Forensics and Malware TRaffic Analysis.
+This home lab is focused on setting up Wireshark Home-Lab and getting hands-on with practical scenarios. If you are a Network Security Engineer, SOC Analyst, or Aspirant Security Analyst, this home lab will help you with Network Analysis, Security Forensics, and Malware Traffic Analysis.
+![Blue Sand White Beach Simple Watercolor Etsy Shop Banner (5)](https://github.com/0xrajneesh/Wireshark-Home-Lab/assets/40385860/81430310-06cb-4636-b528-2b533a84010a)
+
+
+This Home-Lab covers:
+- [Requirement](https://github.com/0xrajneesh/Wireshark-Home-Lab?tab=readme-ov-file#requirements)
+- [Lab Diagram](https://github.com/0xrajneesh/Wireshark-Home-Lab?tab=readme-ov-file#%EF%B8%8Flab-diagram)
+- [Setting up Wireshark Home-Lab](https://github.com/0xrajneesh/Wireshark-Home-Lab?tab=readme-ov-file#-setting-up-wireshark-home-lab)
+- [Excercises- Network Analysis](https://github.com/0xrajneesh/Wireshark-Home-Lab?tab=readme-ov-file#excercises--network-analysis)
+- [Exercises- Security Forensics](https://github.com/0xrajneesh/Wireshark-Home-Lab?tab=readme-ov-file#excercises--security-forensics)
+- [Exercises- Malware Traffic Analysis](https://github.com/0xrajneesh/Wireshark-Home-Lab?tab=readme-ov-file#excercises--malware-traffic-analysis)
+
 
 ## 🧮Requirements
 
